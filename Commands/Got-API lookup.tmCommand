@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>bundleUUID</key>
+	<string>C3BCE2E8-DAD0-45A7-99A5-BFE11D6B056B</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby
+url = "http://beta.gotapi.com/" + ENV['TM_CURRENT_WORD']
+puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"</string>
+	<key>fallbackInput</key>
+	<string>word</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>^~h</string>
+	<key>name</key>
+	<string>Got-API lookup</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>uuid</key>
+	<string>CC9B386C-725C-4D94-A332-CE0B8B6429BF</string>
+</dict>
+</plist>
