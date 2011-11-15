@@ -6,10 +6,10 @@
 	<string>nop</string>
 	<key>command</key>
 	<string>#!/usr/bin/env ruby
-url = "http://instacss.com/#" + ENV['TM_SELECTED_TEXT']
+url = "http://instacss.com/#" + ENV['TM_CURRENT_WORD']
 puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"</string>
 	<key>fallbackInput</key>
-	<string>line</string>
+	<string>word</string>
 	<key>input</key>
 	<string>selection</string>
 	<key>keyEquivalent</key>
