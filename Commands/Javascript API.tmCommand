@@ -15,11 +15,11 @@ puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"</string>
 	<key>keyEquivalent</key>
 	<string>^~h</string>
 	<key>name</key>
-	<string>Javascript API</string>
+	<string>Mozilla Developer Network Search</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, text.html</string>
 	<key>uuid</key>
 	<string>9E572884-23BE-445F-8D65-73912E24F985</string>
 </dict>
