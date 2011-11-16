@@ -2,3 +2,11 @@ API Lookups
 ===========
 
 Just a list of quick api lookups mapped to ![shortcut key](http://innerfusion.net/screenshots//Bundle_Editor-20111115-230329.png)
+
+Current List
+============
+
+- got-api : beta.gotapi.com
+- instacss : instacss.com
+- jquery : api.jquery.com
+- mozilla developer network : developer.mozilla.com
